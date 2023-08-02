@@ -1,0 +1,8 @@
+tasks,resource0,resource1,resource2,resource3,resource4,resource5
+task0,5,0,3,0,0,0
+task1,0,0,0,0,0,2
+task2,0,0,2,0,0,4
+task3,3,0,0,0,0,0
+task4,0,5,0,0,0,0
+task5,0,0,0,2,0,0
+task6,0,0,0,0,4,0

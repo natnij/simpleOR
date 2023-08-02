@@ -1,0 +1,41 @@
+
+##### start recording: 2023-04-27 16:07:23.819786 #####
+
+demand fulfilled: [ True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True
+  True  True  True  True  True  True  True  True  True  True  True  True]
+totalDemand: 504
+maxDemand: 7
+minDemand: 1
+totalSupply: [504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504 504
+ 504 504 504 504 504 504]
+hourlyOutput: 3 2 2 2 2 1 1
+A:workhour:48,nrShifts:5,cost:68.0,pref:13,noGoPref:True,minHourBtwShift:True,nightShift:True,contShift:True.
+B:workhour:44,nrShifts:5,cost:74.0,pref:5,noGoPref:True,minHourBtwShift:True,nightShift:True,contShift:True.
+C:workhour:40,nrShifts:5,cost:64.0,pref:15,noGoPref:True,minHourBtwShift:True,nightShift:True,contShift:True.
+D:workhour:48,nrShifts:4,cost:48.0,pref:8,noGoPref:True,minHourBtwShift:True,nightShift:True,contShift:True.
+E:workhour:48,nrShifts:5,cost:102.0,pref:5,noGoPref:True,minHourBtwShift:True,nightShift:True,contShift:True.
+F:workhour:0,nrShifts:0,cost:0.0,pref:0,noGoPref:True,minHourBtwShift:True,nightShift:True,contShift:True.
+G:workhour:0,nrShifts:0,cost:0.0,pref:0,noGoPref:True,minHourBtwShift:True,nightShift:True,contShift:True.
+
+##### end recording: 2023-04-27 16:07:23.828786 #####
+

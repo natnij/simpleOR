@@ -1,0 +1,23 @@
+name,value,unit,description
+minWorkHour,0,hours,minimum work hour per week
+maxWorkHour,48,hours,maximum work hour per week
+minShiftsPerWeek,0,shifts,minimum 3 shifts per week (if available)
+maxShiftsPerWeek,5,shifts,maximum 5 shifts per week (if available)
+minHourBetweenShift,12,hours,at least 12 hours between previous shift end and next shift start
+minShiftContinuous,3,days,at least 2 consecutive days on same shift in a week
+minNightShiftContinuous,3,days,"at least 3 consecutive night shifts in a week, if night shifts are scheduled."
+nightShiftDefinitionStart,24,hour,night shift regulation applies after midnight
+nightShiftDefinitionEnd,4,hour,night shift regulation ends at 4
+maxNightShiftContinuous,5,days,at most 4 consequtive days with work hours anywhere between night shift regulations
+standardShiftCostPerPersonPerHour,1,unit,hourly rate during normal shift
+standardShiftPaymentStart,0,hour,base payment applies to all hours
+standardShiftPaymentEnd,24,hour,base payment applies to all hours
+additionalNightShiftCost,1,unit,"additional hourly rate during night shifts (as defined by night shift payment start and end times, can be different from the night shift definition fore regulatory purposes)"
+additionalNightShiftPaymentStart,22,hour,night shift payment applies after this hour
+additionalNightShiftPaymentEnd,6,hour,night shift payment applies until this hour
+additionalWeekendShiftCost,1,unit,addition hourly rate during weekend shifts
+additionalWeekendDayStart,6,Saturday,weekend shift payment applies after this weekday
+additionalWeekendDayEnd,7,Sunday,weekend shift payment applies until this weekday
+additionalPublicHolidayCost,1,unit,additional hourly rate during public holidays
+weightPreference,0.1,unit,weight of preference in calculating optimization objective
+weightCost,0.9,unit,weight of cost in calculating optimization objective

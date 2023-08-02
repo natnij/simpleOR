@@ -1,0 +1,5 @@
+project_idx,job_idx,count,jobTypePriority
+projectA,jobType0,2,10
+projectB,jobType0,1,5
+projectB,jobType1,1,3
+projectB,jobType2,1,1
